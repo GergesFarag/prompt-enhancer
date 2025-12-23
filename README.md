@@ -53,6 +53,7 @@ The frontend will run on `http://localhost:5173`
 ### Backend
 
 - **Express.js** - Server framework
+- **MongoDB** - Store the enhanced and original prompts
 - **AI Integration** - Prompt enhancement logic
 
 ## API Endpoints
@@ -62,5 +63,5 @@ The frontend will run on `http://localhost:5173`
   - Body: `{ "prompt": "your idea here" }`
   - Returns: Enhanced prompt
 
-- `GET /api/v1/enhancer` - Health check / info endpoint
+- `GET /api/v1/enhancer` - Get all enhancements in database
 
