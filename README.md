@@ -1,4 +1,4 @@
-# Prompt Clearer - AI-Powered Prompt Enhancer
+# Prompt Enhancer - AI-Powered Prompt Enhancer
 
 Transform rough website ideas into clear, actionable prompts with AI.
 
